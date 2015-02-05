@@ -5,7 +5,15 @@ description:  "An overview of the app"
 date:         2015-02-04 12:51:33
 categories:    Example
 ---
+[Download DICEUserGuide.zip][zip]
+
 ![User Guide Screenshot]({{ site.baseurl }}/images/userguide.png)
+
+The user guide example is a bit of dogfooding, using example content to show this app can be used.
+
+If you can display it in a browser using HTML5, CSS, and Javascript, odds are you can take that content offline with DICE, as long as you keep your data local and relatively linked. 
+
+When creating your own content for DICE, you can add a metadata.json file to let the app know how to display your content in the list, tile, and map views. If you do not set a title, the filename minus the extension will be used.
 
 An example metadata.json
 {% highlight json %}
@@ -29,3 +37,4 @@ Resources used to create the user guide: [Bootstrap][bootstrap] for layout, [Twe
 [twentytwenty]: http://zurb.com/playground/twentytwenty
 [leaflet]:      http://leafletjs.com/
 [swiper]:       http://www.idangero.us/sliders/swiper/index.php
+[zip]:          https://github.com/tyburg/disconnected-content-explorer-examples/blob/master/DICEUserGuide.zip

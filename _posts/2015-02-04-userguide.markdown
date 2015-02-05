@@ -37,4 +37,4 @@ Resources used to create the user guide: [Bootstrap][bootstrap] for layout, [Twe
 [twentytwenty]: http://zurb.com/playground/twentytwenty
 [leaflet]:      http://leafletjs.com/
 [swiper]:       http://www.idangero.us/sliders/swiper/index.php
-[zip]:          https://github.com/tyburg/disconnected-content-explorer-examples/blob/master/DICEUserGuide.zip
+[zip]:          https://github.com/tyburg/disconnected-content-explorer-examples/raw/master/DICEUserGuide.zip

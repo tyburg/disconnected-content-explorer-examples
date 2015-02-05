@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Field Map"
+date:   2015-02-04 12:51:33
+categories: Example
+---
+
+
+
+Feel free to pull this report out of DICE and poke around in the code.
+
+Resources used to create the user guide: [Bootstrap][bootstrap] for layout, [Leaflet.js][leaflet] for the map, and [Awesome Markers][awesome] for custom map pins.
+
+[bootstrap]:    http://getbootstrap.com/
+[leaflet]:      http://leafletjs.com/
+[awesome]:      https://github.com/lvoogdt/Leaflet.awesome-markers

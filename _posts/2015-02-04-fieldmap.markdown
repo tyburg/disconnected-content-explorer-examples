@@ -5,8 +5,7 @@ description:  "An interactive map that uses the JavaScript bridge"
 date:         2015-02-04 12:51:33
 categories:   Example
 ---
-
-
+![Field Map Screenshot]({{ site.baseurl }}/images/fieldmap.png)
 
 Feel free to pull this report out of DICE and poke around in the code.
 

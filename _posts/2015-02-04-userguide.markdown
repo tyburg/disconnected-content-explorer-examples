@@ -5,6 +5,7 @@ description:  "An overview of the app"
 date:         2015-02-04 12:51:33
 categories:    Example
 ---
+![User Guide Screenshot]({{ site.baseurl }}/images/userguide.png)
 
 An example metadata.json
 {% highlight json %}
@@ -27,4 +28,4 @@ Resources used to create the user guide: [Bootstrap][bootstrap] for layout, [Twe
 [bootstrap]:    http://getbootstrap.com/
 [twentytwenty]: http://zurb.com/playground/twentytwenty
 [leaflet]:      http://leafletjs.com/
-[swiper]: http://www.idangero.us/sliders/swiper/index.php
+[swiper]:       http://www.idangero.us/sliders/swiper/index.php

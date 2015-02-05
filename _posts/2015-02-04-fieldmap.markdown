@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Field Map"
-date:   2015-02-04 12:51:33
-categories: Example
+layout:       post
+title:        "Field Map"
+description:  "An interactive map that uses the JavaScript bridge"
+date:         2015-02-04 12:51:33
+categories:   Example
 ---
 
 

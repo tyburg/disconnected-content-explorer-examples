@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "User Guide"
-date:   2015-02-04 12:51:33
-categories: Example
+layout:       post
+title:        "User Guide"
+description:  "An overview of the app"
+date:         2015-02-04 12:51:33
+categories:    Example
 ---
 
 An example metadata.json

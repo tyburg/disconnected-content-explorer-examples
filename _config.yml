@@ -1,5 +1,5 @@
 # Site settings
-title: DICE Examples
+title: DICE
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Disconnected Interactive Content Explorer (DICE) is an app for iOS, Android, and Windows that allows users to load and view interactive content created with HTML, CSS, and Javascript on a mobile device without a network connection.

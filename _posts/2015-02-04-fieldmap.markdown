@@ -61,4 +61,4 @@ Resources used to create the user guide: [Bootstrap][bootstrap] for layout, [Lea
 [angular]:      https://angularjs.org/
 [leaflet]:      http://leafletjs.com/
 [awesome]:      https://github.com/lvoogdt/Leaflet.awesome-markers
-[zip]:          https://github.com/tyburg/disconnected-content-explorer-examples/raw/master/fieldmap.zip
+[zip]:          https://github.com/ngageoint/disconnected-content-explorer-examples/raw/master/reportzips/fieldmap.zip
